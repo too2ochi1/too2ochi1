@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jason (AKA Chill😂)
+- 👋 Hi, I’m Jason
 - 👀 I'm a music lover, particularly 80's, 90's and early 2000's rap/hip hop, RnB and raggae
 - 🌱 I’m currently learning software engineering (Backend Development) (javascript)
 - 💞️ I’m looking to collaborate on any project 
